@@ -1,5 +1,6 @@
-Please put the topics and links to any relevant content here as your topic proposal. We can look at them all and decide which to do when everyone's feeling ready.
+Please edit this file and put titles/links to any relevant content in here as your topic proposal. We can look at them all and decide which to do when everyone's feeling ready.
 
+You may propose as many topics as you like.
 
 ### Topic pending:
 - Kerstin proposes:
