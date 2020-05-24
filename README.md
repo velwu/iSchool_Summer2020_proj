@@ -1,5 +1,10 @@
 Please edit this file and put titles/links to any relevant content in here as your topic proposal. We can look at them all and decide which to do when everyone's feeling ready.
 
+### Some good places to look for topics
+- [CORGIS: The Collection of Really Great, Interesting, Situated Datasets](https://corgis-edu.github.io/corgis/)
+- [Kaggle.com](https://www.kaggle.com/)
+
+
 ### Some links for self-learning:
 (note by Vel: I'm still in the middle of both 2. and 3. myself so we could discuss any confusing section if needs be)
 - [1. Learn Python Programming Masterclass](https://www.udemy.com/share/101WaiAkEdcF5VR3o=/)
