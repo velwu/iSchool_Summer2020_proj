@@ -7,6 +7,8 @@ Please edit this file and put titles/links to any relevant content in here as yo
 
 ### Some links for self-learning:
 (note by Vel: I'm still in the middle of both 2. and 3. myself so we could discuss any confusing section if needs be)
+- [0.CS224U: Natural Language Understanding, Stanford University](https://web.stanford.edu/class/cs224u/)
+
 - [1. Learn Python Programming Masterclass](https://www.udemy.com/share/101WaiAkEdcF5VR3o=/)
   - This one is great anyone looking to learn from absolute 0. Helped me quite a bit back in the days. Never really finished it tho.
 
