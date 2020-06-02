@@ -9,15 +9,16 @@ Please edit this file and put titles/links to any relevant content in here as yo
 (note by Vel: I'm still in the middle of both 2. and 3. myself so we could discuss any confusing section if needs be)
 - [0.CS224U: Natural Language Understanding, Stanford University](https://web.stanford.edu/class/cs224u/)
 
-- [1. Learn Python Programming Masterclass](https://www.udemy.com/share/101WaiAkEdcF5VR3o=/)
+- [1. Learn Python Programming Masterclass](https://www.udemy.com/share/101WaiAkEdcF5VR3o=/) by Tim Buchalka et al
   - This one is great anyone looking to learn from absolute 0. Helped me quite a bit back in the days. Never really finished it tho.
 
-- [2. Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/share/101WaUAkEdcF5VR3o=/)
+- [2. Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/share/101WaUAkEdcF5VR3o=/) by Jose Portilla
   - I recommend trying this one out first before attempting the next one
-- [3. Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/share/101WciAkEdcF5VR3o=/)
+  
+- [3. Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/share/101WciAkEdcF5VR3o=/) by Hadelin de Ponteves et al
   - You can skip some R sections and just focus on the math-heavy ones with sample Python codes
 
-- [4. Artificial Intelligence A-Z™: Learn How To Build An AI](https://www.udemy.com/share/101WpyAkEdcF5VR3o=/)
+- [4. Artificial Intelligence A-Z™: Learn How To Build An AI](https://www.udemy.com/share/101WpyAkEdcF5VR3o=/) by Hadelin de Ponteves et al
   - This one is imo really cool but is quite heavy on the math side. I did not make it far but, **your mileage may vary**.
 
 
