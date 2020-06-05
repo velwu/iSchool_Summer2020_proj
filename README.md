@@ -24,7 +24,7 @@ Please edit this file and put titles/links to any relevant content in here as yo
 
 You may propose as many topics as you like.
 
-### Topic pending:
+### Topic proposals:
 - Kerstin proposes:
   - ??
   
