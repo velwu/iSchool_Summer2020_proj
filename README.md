@@ -28,7 +28,7 @@ You may propose as many topics as you like.
 - Kerstin proposes:
   - ??
   
-- Abigail proposes:
+- Akash proposes:
   - ??
 
 - Harshit proposes:
