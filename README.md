@@ -29,7 +29,7 @@ You may propose as many topics as you like.
   - [Movie recommendation system](https://data-flair.training/blogs/data-science-r-movie-recommendation/)
   - [Sentiment analysis](https://data-flair.training/blogs/data-science-r-sentiment-analysis-project/)
   - [Customer segmentation using machine learning](https://data-flair.training/blogs/r-data-science-project-customer-segmentation/)
-  -[Uber data analysis](https://data-flair.training/blogs/r-data-science-project-uber-data-analysis/)
+  - [Uber data analysis](https://data-flair.training/blogs/r-data-science-project-uber-data-analysis/)
   
 - Akash proposes:
   - ??
