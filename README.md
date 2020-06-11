@@ -4,6 +4,9 @@ Please edit this file and put titles/links to any relevant content in here as yo
 - [CORGIS: The Collection of Really Great, Interesting, Situated Datasets](https://corgis-edu.github.io/corgis/)
 - [Kaggle.com](https://www.kaggle.com/)
 
+### Python libraries that we'll need (more might be added as things develop):
+![Snapshot Image 1](https://github.com/velwu/iSchool_Summer2020_proj/blob/master/libs_snapshot.PNG)
+
 
 ### Some links for self-learning:
 (note by Vel: I'm still in the middle of both 2. and 3. myself so we could discuss any confusing section if needs be)
