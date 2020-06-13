@@ -43,3 +43,7 @@ You may propose as many topics as you like.
   - [Fake News Detection Project | Data Science with Python | Machine Learning session 2](https://youtu.be/xyq-zYr1cnI)
 - Vel proposes:
   - [Amazon Fine Food Reviews: Analyze ~500,000 food reviews from Amazon](https://www.kaggle.com/snap/amazon-fine-food-reviews)
+
+
+### Topic chosen:
+- [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/overview)
