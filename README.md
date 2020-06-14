@@ -1,5 +1,10 @@
 Please edit this file and put titles/links to any relevant content in here as your topic proposal. We can look at them all and decide which to do when everyone's feeling ready.
 
+
+# Topic chosen:
+## - [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/overview)
+
+
 ### Some good places to look for topics
 - [CORGIS: The Collection of Really Great, Interesting, Situated Datasets](https://corgis-edu.github.io/corgis/)
 - [Kaggle.com](https://www.kaggle.com/)
@@ -44,6 +49,3 @@ You may propose as many topics as you like.
 - Vel proposes:
   - [Amazon Fine Food Reviews: Analyze ~500,000 food reviews from Amazon](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 
-
-### Topic chosen:
-- [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/overview)
