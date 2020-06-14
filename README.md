@@ -3,7 +3,7 @@ Please edit this file and put titles/links to any relevant content in here as yo
 
 # Topic chosen:
 ## - [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/overview)
--[Customer Segments with PCA by Andrea Sindico, Project Manager at Defense Industry Rome, Lazio, Italy](https://www.kaggle.com/asindico/customer-segments-with-pca)
+- [Customer Segments with PCA by Andrea Sindico, Project Manager at Defense Industry Rome, Lazio, Italy](https://www.kaggle.com/asindico/customer-segments-with-pca)
 - [Simple Exploration Notebook by SRK Chennai, Tamil Nadu, India](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-instacart)
 
 ### Some good places to look for topics
