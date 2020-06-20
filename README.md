@@ -5,13 +5,15 @@ This project aims to help all team members self-teach and grow data science skil
 
 # Topic chosen:
 ## - [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/overview)
-- [Customer Segments with PCA by Andrea Sindico, Project Manager at Defense Industry Rome, Lazio, Italy](https://www.kaggle.com/asindico/customer-segments-with-pca)
-- [Simple Exploration Notebook by SRK Chennai, Tamil Nadu, India](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-instacart)
 
 ![EDAViz_Kerstin_1](https://github.com/velwu/iSchool_Summer2020_proj/blob/master/data_viz_screenshots/Kerstin_Freq_Days_Since_Prior_Order.PNG)
 ![EDAViz_Kerstin_2](https://github.com/velwu/iSchool_Summer2020_proj/blob/master/data_viz_screenshots/Kerstin_Freq_o_Orders_by_Hr_o_Day.PNG)
 ![EDAViz_Vel_1](https://github.com/velwu/iSchool_Summer2020_proj/blob/master/data_viz_screenshots/Vel_Scatterplot%20by%20Aisle%20add_to_cart_order%20VS%20reordered.png)
 ![EDAViz_Vel_2](https://github.com/velwu/iSchool_Summer2020_proj/blob/master/data_viz_screenshots/Vel_Scatterplot%20by%20Aisle%20add_to_cart_order%20VS%20reordered_2.png)
+
+Work by other Kaggle members (for references)
+- [Customer Segments with PCA by Andrea Sindico, Project Manager at Defense Industry Rome, Lazio, Italy](https://www.kaggle.com/asindico/customer-segments-with-pca)
+- [Simple Exploration Notebook by SRK Chennai, Tamil Nadu, India](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-instacart)
 
 
 ### Python libraries that we'll need (more might be added as things develop):
