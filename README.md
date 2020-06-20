@@ -1,5 +1,7 @@
-Please edit this file and put titles/links to any relevant content in here as your topic proposal. We can look at them all and decide which to do when everyone's feeling ready.
-
+This project aims to help all team members self-teach and grow data science skills together, by tackling the following open-source topic. Roughly, the project will go through these phases:
+* (1) Data Exploration (with visualizations to find and demonsrtate features / trends/ relations)
+* (2) Analysis (through observing dataframes and visualizations)
+* (3) Supervised Machine Learning (near the end when the team feels more technically prepared)
 
 # Topic chosen:
 ## - [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/overview)
