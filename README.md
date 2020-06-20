@@ -6,9 +6,11 @@ Please edit this file and put titles/links to any relevant content in here as yo
 - [Customer Segments with PCA by Andrea Sindico, Project Manager at Defense Industry Rome, Lazio, Italy](https://www.kaggle.com/asindico/customer-segments-with-pca)
 - [Simple Exploration Notebook by SRK Chennai, Tamil Nadu, India](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-instacart)
 
-### Some good places to look for topics
-- [CORGIS: The Collection of Really Great, Interesting, Situated Datasets](https://corgis-edu.github.io/corgis/)
-- [Kaggle.com](https://www.kaggle.com/)
+![EDAViz_Kerstin_1](https://github.com/velwu/iSchool_Summer2020_proj/blob/master/data_viz_screenshots/Kerstin_Freq_Days_Since_Prior_Order.PNG)
+![EDAViz_Kerstin_2](https://github.com/velwu/iSchool_Summer2020_proj/blob/master/data_viz_screenshots/Kerstin_Freq_o_Orders_by_Hr_o_Day.PNG)
+![EDAViz_Vel_1](https://github.com/velwu/iSchool_Summer2020_proj/blob/master/data_viz_screenshots/Vel_Scatterplot%20by%20Aisle%20add_to_cart_order%20VS%20reordered.png)
+![EDAViz_Vel_2](https://github.com/velwu/iSchool_Summer2020_proj/blob/master/data_viz_screenshots/Vel_Scatterplot%20by%20Aisle%20add_to_cart_order%20VS%20reordered_2.png)
+
 
 ### Python libraries that we'll need (more might be added as things develop):
 ![Snapshot Image 1](https://github.com/velwu/iSchool_Summer2020_proj/blob/master/libs_snapshot.PNG)
@@ -44,9 +46,6 @@ You may propose as many topics as you like.
 - Akash proposes:
   - ??
 
-- Harshit proposes:
-  - [Camera: Social Distance Observation](https://www.linkedin.com/posts/snoviya-dcunha-937099146_tensorflow-opencv-firstpost-ugcPost-6668388476028899328-v227/?fbclid=IwAR03kecgUtL11VFNcxhIrkbmB6dlaw2XHLoUi8Qh-nMG-rDpmKz8Ak2bwRM)
-  - [Fake News Detection Project | Data Science with Python | Machine Learning session 2](https://youtu.be/xyq-zYr1cnI)
 - Vel proposes:
   - [Amazon Fine Food Reviews: Analyze ~500,000 food reviews from Amazon](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 
