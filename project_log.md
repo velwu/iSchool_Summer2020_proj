@@ -23,3 +23,6 @@
   - First EDA presented: Kerstin, Vel
   - All team members will continue the EDA via data viz.
   - Any source can be referenced as long as properly creditted.
+
+* July 5, 2020
+  - Second EDA presented:
